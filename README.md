@@ -70,11 +70,9 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ZunedKhan07/saasquatch-ai-qualifier
 cd saasquatch-ai-qualifier
 ```
-
-Replace `<your-repository-url>` with your actual GitHub repository URL.
 
 ### 2. Backend Setup
 
