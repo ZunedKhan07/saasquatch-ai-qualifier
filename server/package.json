@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.ja"
+    "dev": "nodemon index.js",
+    "build": "echo 'No build required'"
   },
   "keywords": [],
   "author": "",
